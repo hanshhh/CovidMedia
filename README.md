@@ -1,5 +1,5 @@
 
-# COVID Impact on Media - Analysis of Public Health Discussion in The News Over Time
+# First Year Project: COVID Impact on Media - Analysis of Public Health Discussion in The News Over Time (2021)
 
 ## Project Overview
 
